@@ -13,4 +13,4 @@ _La búsqueda de los productos, así como todos los detalles de los mismo se rea
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Librería que nos permite realizar peticiones HTTP
 * [MVP] - Patrón de diseño
 
-⌨️ con ❤️ por [Arturo@7th.dev](https://gitlab.com/Arturo.7th.Dev) 😊
+Desarrollado por [Arturo@7th.dev](https://gitlab.com/Arturo.7th.Dev) 😊

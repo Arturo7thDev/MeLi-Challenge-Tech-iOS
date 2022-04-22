@@ -34,14 +34,10 @@ class MeLiChallengeTechTests: XCTestCase {
             switch result {
             case .success(let array):
                 XCTAssertNotNil(array)
-                //self?.vc?.getProductList(products: array)
             case .failure(let aFError):
                 XCTAssertNotNil(aFError)
-
-                //self?.viewControllerDelegate?.getErrorGettingProductList(errorMessage: aFError)
             case .empty:
                 print("gdf")
-                //self?.viewControllerDelegate?.emptyProductList()
             }
         }
         
